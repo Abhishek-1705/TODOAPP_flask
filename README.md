@@ -2,11 +2,11 @@ Developd by Abhishek Malviya @cypher
 
 
 Tech Stack used :-
-                1. Python(Flask)
-                2. Html
-                3. Bootstrap 5.0
-                4. Database(SQLAlchemy)
-                5. jinja2 templating engine
+                1. Python(Flask)<br>
+                2. Html<br>
+                3. Bootstrap 5.0<br>
+                4. Database(SQLAlchemy)<br>
+                5. jinja2 templating engine<br>
 
 
 
