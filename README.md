@@ -23,7 +23,9 @@ To use this App on Your local Machine folows this Steps:
  
      
      
-     This APP is Deployed on heroku https://todo-abhishekmalviya.herokuapp.com/ 
+     This APP is Deployed on heroku
+  
+                                    https://todo-abhishekmalviya.herokuapp.com/ 
       
 
                                                                           **Thanks**
