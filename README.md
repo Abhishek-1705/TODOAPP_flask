@@ -1,4 +1,4 @@
-Developd by Abhishek Malviya @cypher
+<div align="center">Developd by Abhishek Malviya @cypher</div>
 
 
 Tech Stack used :-
@@ -20,7 +20,7 @@ To use this App on Your local Machine folows this Steps:
  <li>     pip install flask_sqlalchemy</li>
   <li>  Run your Python file "app.py" using command "python app.py"</li>
      
-     </ol>
+ 
      
      
      This APP is Deployed on heroku https://todo-abhishekmalviya.herokuapp.com/ 
