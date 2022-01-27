@@ -21,19 +21,12 @@ To use this App on Your local Machine folows this Steps:
   <li>  Run your Python file "app.py" using command "python app.py"</li>
      
   <h3>This APP is Deployed on heroku</h4>
-  
-  
-  
-  
-  
- 
      
-     
-             https://todo-abhishekmalviya.herokuapp.com/ 
+                                          https://todo-abhishekmalviya.herokuapp.com/ 
       
 
                                                                           
-  
+  <img href="todo1.png>
   
   
   
