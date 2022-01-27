@@ -2,11 +2,11 @@
 
 
 Tech Stack used :-
-             <li> 1. Python(Flask)</li>
-              <li>  2. Html5</li>
-               <li> 3. Bootstrap 5.1</li>
-               <li> 4. Database(SQLAlchemy:sqlite)</li>
-               <li> 5. jinja2 templating engine</li>
+             <li> Python(Flask)</li>
+              <li>  Html5</li>
+               <li> Bootstrap 5.1</li>
+               <li> Database(SQLAlchemy:sqlite)</li>
+               <li>  jinja2 templating engine</li>
 
 
 
