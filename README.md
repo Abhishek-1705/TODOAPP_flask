@@ -26,7 +26,7 @@ To use this App on Your local Machine folows this Steps:
       
 
                                                                           
-  <img href="https://github.com/Abhishek-1705/TODOAPP_flask/blob/main/todo1.png">
+  ![alt tag](https://github.com/Abhishek-1705/TODOAPP_flask/blob/main/todo1.png)
   
   
   
