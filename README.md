@@ -30,7 +30,7 @@ To use this App on Your local Machine folows this Steps:
   
   
   
-                                                               <div align="center">      **Thanks**</div>
+<div align="center">Thanks</div>
      
      
      
