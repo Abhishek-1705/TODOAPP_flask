@@ -20,13 +20,24 @@ To use this App on Your local Machine folows this Steps:
  <li>     pip install flask_sqlalchemy</li>
   <li>  Run your Python file "app.py" using command "python app.py"</li>
      
+  <h3>This APP is Deployed on heroku</h4>
+  
+  
+  
+  
+  
  
      
      
-     This APP is Deployed on heroku        https://todo-abhishekmalviya.herokuapp.com/ 
+             https://todo-abhishekmalviya.herokuapp.com/ 
       
 
-                                                                          **Thanks**
+                                                                          
+  
+  
+  
+  
+  **Thanks**
      
      
      
