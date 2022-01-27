@@ -1,4 +1,4 @@
-<div align="center">Developd by Abhishek Malviya @cypher</div>
+<div align="center" text-color="blue"><h1>Developd by Abhishek Malviya</h1> <h2> @cypher</h2></div>
 
 
 Tech Stack used :-
